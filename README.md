@@ -1,1 +1,1 @@
-Understanding remote repo and local repo Funtioning
+Understanding remote repo and local repo Funtioning , pull command and fetching.
